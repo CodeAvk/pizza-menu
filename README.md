@@ -2,7 +2,7 @@
 
 Welcome to the Pizza Ordering Website, a web application that allows users to explore a delicious selection of pizzas and place their orders online.
 
-![Pizza Ordering Website Screenshot](screenshot.png)
+
 
 ## Table of Contents
 
